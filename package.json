@@ -1,0 +1,21 @@
+{
+  "name": "js-express-mongo-simple-restfullapi",
+  "version": "1.0.0",
+  "description": "simple mongodb restfull api",
+  "main": "nodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monggo",
+    "restfullAPI",
+    "express",
+    "nodejs"
+  ],
+  "author": "Rudi Widodo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  }
+}
